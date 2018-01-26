@@ -1,0 +1,8 @@
+/*Por Murillo*/
+.divider{
+	 height: 1px;
+	 border: 1px solid #171717;
+	 border-radius: 50%;
+	 width: 70%;
+	 margin: 20px auto;
+}
